@@ -39,3 +39,4 @@
 [08-Jun-2024 05:49:51 UTC] PHP Warning:  Constant WP_MEMORY_LIMIT already defined in C:\Users\WEBEDGE\Local Sites\acuterehabililocal\app\public\wp-config.php on line 106
 [08-Jun-2024 08:36:44 UTC] フックの cron 再予約イベントエラー: updraft_backup、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":"weekly","args":[],"interval":604800}
 [09-Jun-2024 09:32:12 UTC] フックの cron 予約解除イベントエラー: backwpup_cron、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":false,"args":{"arg":1}}
+[13-Jun-2024 23:03:28 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in C:\Users\WEBEDGE\Local Sites\acuterehabililocal\app\public\wp-admin\includes\translation-install.php on line 62
